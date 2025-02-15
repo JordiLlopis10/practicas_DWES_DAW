@@ -32,8 +32,6 @@ def perfil_user():
     return "template user"
 
 
-
-
 # api
 
 @app.route('/login', methods=['POST'])
